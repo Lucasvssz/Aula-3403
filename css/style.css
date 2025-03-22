@@ -1,0 +1,33 @@
+body {
+    font-family: "Lato", sans-serif;
+
+}
+
+h1 {
+    color: #c71e1e;
+    font-size: 45px;
+    font-family: "Boldonse", system-ui;
+    
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Lato", sans-serif;
+}
+
+img{
+    width: 300px;
+    border-radius: 8px 80px 8px 80px;
+}
+
+a {
+    color: #ba2c2c;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 800;
+    transition: all 0.7s;
+}
+
+a:hover {
+    color: #474141;
+    text-decoration: underline;
+}
